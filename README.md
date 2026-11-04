@@ -10,7 +10,7 @@ A bilingual (English / Amharic) web app that helps families in Ethiopia keep tra
 
 ## 🎥 Video Presentation
 
-[Watch the 5-minute demo (with voice-over)](https://drive.google.com/file/d/1CJexxQk2xYmDLABIQE6PpJ3h0hcVi8Or/view?usp=drive_link)
+[Watch the 5-minute demo (with voice-over)](https://drive.google.com/file/d/1hoe36d-wogDymW6hs-ZkgsBwGc0W90g_/view?usp=sharing)
 
 ## 📌 Project Description
 
